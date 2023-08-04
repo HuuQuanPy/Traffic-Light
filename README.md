@@ -1,4 +1,5 @@
 # Traffic-Light
+INDIVIDUAL PROJECT
 Traffic Light software, firmware and hardware
 Applications:
  -Visual Studio
